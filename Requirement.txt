@@ -1,0 +1,2 @@
+pip install pybullet numpy tensorflow tqdm
+python object_grasping_rl.py
